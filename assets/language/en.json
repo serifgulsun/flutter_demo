@@ -1,0 +1,18 @@
+{
+    "giris": "Sign in",
+    "kayit": "Sign up",
+    "kullaniciAdi": "User Name",
+    "sifre": "Password",
+    "sifreOnayla": "Confirm Password",
+    "sifremiUnuttum": "Forgot Password",
+    "hesap": "does not have account?",
+    "sayfalar": "Pages",
+    "kullanicilar": "Users",
+    "detaylar": "Details",
+    "mesajlar": "Messages",
+    "ayarlar": "Settings",
+    "hakkimizda": "About us",
+    "profil": "Profile",
+    "cikis": "log out"
+    
+}
